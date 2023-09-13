@@ -1,9 +1,27 @@
-# Hi there, I am Mattes 👋
+#<h1 align="center">
+    Hi There! I'm Mattes!
+</h1>
+
+<h2 align="center">🏥 Striving to shape the future of healthcare using artificial intelligence 🤖</h2>
+<h3 align="center">Medical Informatics Master's student @Erberhard Karls University Tuebingen </h3>
+<h3 align="center">B.Sc Data Science and Artificial Intelligence @Saarland University</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **updating/uploading old projects to GitHub**
+ 
+ 🌱 I’m currently learning **MLOps**
+ 
+ </div>
+
+<div align="center">
 
 ![Mattes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mawa00006&show_icons=true&theme=dark)
+</div>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 <!--
 **mawa00006/mawa00006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
