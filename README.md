@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi there, I am Mattes 👋
 
+![Mattes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mawa00006&show_icons=true&theme=dark)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 <!--
 **mawa00006/mawa00006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
