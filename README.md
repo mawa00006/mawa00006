@@ -1,4 +1,4 @@
-<h2 align="center">🏥 Striving to shape the future of healthcare using artificial intelligence 🤖</h2>
+<h2 align="center">🏥 Striving to shape the future of healthcare using Artificial Intelligence 🤖</h2>
 <h3 align="center">Medical Informatics Master's student @Erberhard Karls University Tuebingen </h3>
 <h3 align="center">B.Sc Data Science and Artificial Intelligence @Saarland University</h3>
 <div align="center">
