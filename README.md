@@ -1,28 +1,48 @@
 <h2 align="center">🏥 Striving to shape the future of healthcare using artificial intelligence 🤖</h2>
 <h3 align="center">Medical Informatics Master's student @Erberhard Karls University Tuebingen </h3>
 <h3 align="center">B.Sc Data Science and Artificial Intelligence @Saarland University</h3>
-
-<br/>
-
 <div align="center">
+    <a href="https://www.linkedin.com/in/mattes-warning-175133281" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+ 
+ </div>
+<hr/>
+<div align="center">
+
  
  🔭 I’m currently working on **updating/uploading old projects to GitHub**
  
  🌱 I’m currently learning **MLOps**
 
-   <a href="www.linkedin.com/in/mattes-warning-175133281" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
- 
  </div>
 
 <div align="center">
 
+ <hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,python,pytorch,docker,r," /><br>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mawa00006&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+</div>
+
+<!--
 ![Mattes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mawa00006&show_icons=true&theme=dark)
 </div>
 
 
-<!--
+
 **mawa00006/mawa00006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
