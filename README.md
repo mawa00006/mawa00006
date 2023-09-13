@@ -9,6 +9,10 @@
  🔭 I’m currently working on **updating/uploading old projects to GitHub**
  
  🌱 I’m currently learning **MLOps**
+
+   <a href="www.linkedin.com/in/mattes-warning-175133281" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
  
  </div>
 
