@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **updating/uploading old projects to GitHub**
  
- 🌱 I’m currently learning **MLOps**
+ 🌱 I’m currently learning **MLOps, Test Driven Development**
 
  </div>
 
