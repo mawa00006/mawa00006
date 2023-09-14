@@ -2,7 +2,7 @@
 <h3 align="center">Medical Informatics Master's student @Erberhard Karls University Tuebingen </h3>
 <h3 align="center">B.Sc Data Science and Artificial Intelligence @Saarland University</h3>
 <div align="center">
-    <a href="https://www.linkedin.com/in/mattes-warning-175133281" target="_blank">
+    <a href="https://www.linkedin.com/in/mattes-warning" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
  
